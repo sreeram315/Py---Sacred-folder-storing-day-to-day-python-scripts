@@ -1,0 +1,661 @@
+# proprietary to BEERA // DO NOT COPY
+
+insert into students1 values(329, 'Guru', 'E1608');
+insert into students1 values(429, 'Beera', 'EXXXX');
+
+
+create table cgpas(id number, cgpa number);
+insert into cgpas values(129, 8.5);
+insert into cgpas values(329, 7.3);
+insert into cgpas values(429, 10);
+
+select name from students1, cgpas where students1.id = cgpas.id order by students1.id desc;
+
+select max(id) from students1;
+
+select name from students1 where id = (select max(id) from students1);
+
+create view editor1 (id, name) as select id, name from students1 where id = (select max(id) from students1);
+
+select name from students1 where id > 200 and id < 600 order by id desc;
+
+update students1 set id = id+100;
+update students1 set id = 900 where id = 529;
+
+
+delete from students1 where id in (select id from cgpas);
+
+select distinct section from students1;
+select count(distinct section) from students1;
+
+select * from students1 where section like 'E%';
+
+
+select * from students1 where section like 'E1601%';
+select name from students1 where id between 101 and 500;
+
+select name, concat(name,'1') as hello from students1;
+
+select students1.name, cgpas.cgpa from students1 inner join cgpas on cgpas.id = students1.id
+
+select id from students1 union select cgpa from cgpas;
+
+select name, count(id), count(section) from students1 group by name;
+
+select name, count(id), count(section) from students1 group by name having count(section) >=2;
+
+insert into hello select id from students1;
+
+alter table students1 drop column phno;
+-------------------------------------------------------
+PLPLPLPLPLPLPLPLPLPLPLPLLPLL THIS IS PL PLPLPLPLPLPLPLPLPL
+-------------------------------------------------------
+
+
+PLPLPLPLPLPLPLLPLPLP
+
+# Product two numbers
+declare
+a number := &a;
+b number := &b;
+prod number;
+begin
+prod := a*b;
+dbms_output.put_line(a);
+dbms_output.put_line(b);
+dbms_output.put_line(prod);
+end;
+/
+
+
+# Add two numbers
+declare
+a number := &a;
+b number := &b;
+res number;
+begin
+res := a+b;
+dbms_output.put_line('a is'||a||'and b is'||b);
+dbms_output.put_line('The sum is'||res);
+end;
+/
+
+
+#bigger num
+declare
+a number := &a;
+b number := &b;
+begin
+if(a>b) then
+dbms_output.put_line('a is bigger');
+else
+dbms_output.put_line('b is bigger');
+end if;
+end;
+/
+
+#IF condition
+declare
+a number := &a;
+begin
+if (mod(a,2) = 1) then 
+dbms_output.put_line('a is odd');
+else
+dbms_output.put_line('a is even');
+end if;
+end;
+/
+
+#LOOP
+declare
+n number := 1;
+begin
+loop
+dbms_output.put_line(n);
+n := n+1;
+exit when n = 11;
+end loop;
+end;
+/
+
+
+#WHILE LOOP
+declare
+a number := 1;
+begin
+while(a<=10) loop
+dbms_output.put_line(a);
+a := a+1;
+end loop;
+end;
+/
+
+#FOR LOOP
+begin
+for a in 2..20 loop
+dbms_output.put_line(a);
+end loop;
+end;
+/
+
+#FOR REVERSE LOOP
+begin
+for a in reverse 2..20 loop
+dbms_output.put_line(a);
+end loop;
+end;
+/
+
+
+#SAME LINE PRINT
+begin
+for a in reverse 2..20 loop
+dbms_output.put(a);
+end loop;
+dbms_output.new_line;
+end;
+/
+
+#SUM OF n number
+declare
+sum1 number := 0;
+a number := 10;
+begin
+for i in 1..a loop
+dbms_output.put_line('adding'||i);
+sum1 := sum1 + i;
+end loop;
+dbms_output.put_line(sum1);
+end;
+/
+
+#product of n
+declare
+n number := &n;
+begin
+for i in 1..10 loop
+dbms_output.put_line(n*i);
+end loop;
+end;
+/
+
+# accesing tables
+declare
+a number;
+n char(30);
+begin
+select name into n from students1 where id = 100;
+dbms_output.put_line(n);
+end;
+/
+
+# accesing tables
+declare
+a number;
+n char(30);
+begin
+select name into n from students1 where id = 100;
+dbms_output.put_line(n);
+end;
+/
+
+
+####
+declare
+n number;
+ename char(30);
+eid number;
+begin
+select name, id into ename, eid from students1 where id = &n;
+dbms_output.put_line(ename||eid);
+end;
+/
+
+## goto statement
+begin
+for i in 1..10 loop
+dbms_output.put_line(i);
+exit when i = 5;
+if i = 7 then
+goto GOTTO;
+end if;
+end loop;
+<<GOTTO>>
+dbms_output.put_line('OUT');
+end;
+/
+
+## % use
+
+declare
+id students1.id%type;
+name students1.name%type;
+section students1.section%type;
+begin
+select id, name, section into id, name, section from students1 where id = 120;
+dbms_output.put_line(section);
+end;
+/
+
+
+## Triggers
+
+declare
+
+create or replace trigger checking before insert or update or delete on students1 for each row
+declare
+a char(30);
+begin
+select to_char(SYSDATE,'HH24') into a from dual;
+dbms_output.put_line(a);
+end;
+/
+
+
+
+create or replace trigger checking before insert or update or delete on students1 for eacg row
+
+####
+declare
+a students1%rowtype;
+begin
+select name into a from students1;
+end;
+/
+
+
+#Exception
+
+declare
+s number;
+a number;
+begin
+a := 100;
+select id into s from students1 where id = 'oo';
+exception
+when no_data_found then
+dbms_output.put_line('No such data found');
+when value_error then
+a := 100;
+dbms_output.put_line('Value error re!');
+when others then
+dbms_output.put_line('others re');
+end;
+/
+
+
+#User defined exception
+
+declare
+EXY exception;
+name students1.name%type;
+a number;
+begin
+a := &a;
+if a <10 then
+raise EXY;
+end if;
+exception
+when EXY then
+dbms_output.put_line('Called re');
+when others then
+dbms_output.put_line('others re');
+end;
+/
+
+# Function
+create or replace function funky(idd number default 412) return char is
+arr char(30);
+begin
+select name into arr from students1 where id=idd;
+return arr;
+end;
+declare
+ret char(30);
+begin
+ret := funky();
+dbms_output.put_line(ret);
+end;
+/
+
+#PROCEDURE
+create or replace procedure print(n char) as
+begin
+dbms_output.put_line(n);
+end;
+declare
+a number:= 10;
+begin
+print(a);
+print('TEN');
+end;
+/
+
+create or replace procedure printline as
+begin
+for i in 1..10 loop
+dbms_output.put('_');
+end loop;
+dbms_output.new_line;
+end;
+
+begin
+printline();
+end;
+/
+
+# Palindrome or not   
+DECLARE  
+    s VARCHAR2(10) := 'abccba';  
+    l VARCHAR2(20);  
+    t VARCHAR2(10);  
+BEGIN 
+    FOR i IN REVERSE 1..Length(s) LOOP  
+        l := Substr(s, i, 1);  
+  
+        t := t  
+             ||'' 
+             ||l;  
+    END LOOP;  
+  
+    IF t = s THEN 
+      dbms_output.Put_line(t  
+                           ||'' 
+                           ||' is palindrome');  
+    ELSE 
+      dbms_output.Put_line(t  
+                           ||'' 
+                           ||' is not palindrome');  
+    END IF;  
+END;  
+
+
+
+# factorial of numer
+declare
+a number;
+create or replace function facty [a number] return a as
+begin
+for i in 1..a-1 loop
+a := a*i;
+end loop;
+begin
+a := &a;
+dbms_output_put_line('Factorial is'|facty(a));
+end;
+
+
+# sum and average of first 10 natural numbers
+declare
+i number;
+sum number;
+avg number;
+begin
+sum := 0;
+for i in 1..10 loop
+sum := sum + i;
+end loop;
+avg := sum/10;
+end;
+/
+
+
+# exception hadeling
+declare
+a number;
+begin
+a := &a;
+if a > 60 then
+raise exy
+end if;
+insert into employee eid values (a);
+Exception
+when exy then
+dbms_output.put_line('empid cannot be greater than 60');
+end;
+/
+
+
+# even or odd
+declare
+a number;
+begin
+if(a/2==0) then
+dbms_output.put_line('even');
+else
+dbms_output.put_line('odd');
+end if;
+end;
+/
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
