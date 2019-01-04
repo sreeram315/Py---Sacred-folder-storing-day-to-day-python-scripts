@@ -2,6 +2,7 @@
 import pandas as pd
 from time import sleep
 
+somttt = 0
 foreign_cgpa = 0
 state_avg = {}
 doubt = []
