@@ -1,6 +1,6 @@
 # proprietary to BEERA // DO NOT COPY
 import pandas as pd
-(((pd.read_csv('table-1.csv')).append(pd.read_csv('table-2.csv'))).append(pd.read_csv('table-3.csv'))).append(pd.read_csv('table-4.csv')).to_csv('rupee_main_file.csv')
+(((pd.read_csv('table-1.csv')).append(pd.read_csv('table-2.csv'))).append(pd.read_csv('table-3.csv'))).append(pd.read_csv('table-4.csv')).to_csv('rupee_main_file1.csv')
 
 
 #############################################################################
@@ -14,4 +14,4 @@ def fir(string):
 
 df['Year'] = df['Year'].apply(fir)
 
-df.to_csv('rupee_main_file.csv')
+df.to_csv('rupee_main_file1.csv')
