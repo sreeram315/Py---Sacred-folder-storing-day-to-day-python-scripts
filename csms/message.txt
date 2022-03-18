@@ -1,0 +1,15 @@
+
+from django.template import loader
+
+EXFX Guest,
+{{order.name}} visiting {{store.name}} on {{ order.services_time }} for Order Code {{order.order_code}}. http://partner.goexfx.com
+
+
+sms_context = {"order": order, "time": order.services_time.time}
+
+
+sms_function.send_verification_otp(order.user, None, order.phone, "order_service_remainder.txt",
+                                                       sms_context)
+
+
+message = loader.render_to_string(sms_template, sms_context)                                 

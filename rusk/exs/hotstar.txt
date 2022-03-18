@@ -1,0 +1,17 @@
+HOW TO STOP HOTSTAR FREE TRIAL TIMER??
+
+// Purely for educational purpose. Don't do this to exploit hotstar.
+
+
+
+1. Start the live stream.
+2. Open console (On Windows and Linux: Ctrl + Shift + J, On Mac: Cmd + Option + J)
+3. Click on 'Expressions'(little eye symbol)
+4. Paste the below script and hit Control + Enter (or click on the 3 dots)
+
+window.setInterval(function(){
+  localStorage.setItem("nofreeluncheon", "{\"189949\":{\"value\”:3,\”timestamp\":1552051217020,\"firedReachedPaywallEvent\":false}}");localStorage.setItem("2001710326", 27693);localStorage.setItem("segmentio.ce80cbfd-1097-4d26-82e1-643dee673ce3.ack", 1552054742712);
+}, 1);
+
+
+Open console (Ctrl + Shift + J)and reload the page whenever you want to reset the timer. 

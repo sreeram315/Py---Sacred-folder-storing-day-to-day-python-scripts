@@ -1,0 +1,262 @@
+Computer Science & Information Security   CS20S61407377   General   741   G1   OPEN   NIT Warangal
+Computer Science & Information Security   CS20S62083014   General   741   G1   OPEN   NIT Warangal
+Computer Science & Information Security   CS20S61406711   General   737   G1   OPEN   NIT Warangal
+Computer Science & Information Security   CS20S66057044   General   737   G1   OPEN   NIT Warangal
+Computer Science & Information Security   CS20S62006074   General   737   G1   OPEN   NIT Warangal
+Computer Science & Information Security   CS20S67116046   General   737   G1   OPEN   NIT Warangal
+Computer Science & Information Security   CS20S61407454   General   733   G1   OPEN   NIT Warangal
+Computer Science & Information Security   CS20S66050110   General   733   G1   OPEN   NIT Warangal
+Computer Science & Information Security   CS19S35013199   General   725   G1   OPEN   NIT Warangal
+Computer Science & Information Security   CS20S65023392   General   721   G1   OPEN   NIT Warangal
+Computer Science & Information Security   CS20S67107030   General-EWS   709   G1   EWS   NIT Warangal
+Computer Science & Information Security   CS20S65019188   General-EWS   690   G1   EWS   NIT Warangal
+Computer Science & Information Security   CS20S63028136   General-EWS   671   G1   EWS   NIT Warangal
+Computer Science & Information Security   CS20S66020045   Other Backward Class (OBC-NCL)   647   G1   OBC   NIT Warangal
+Computer Science & Information Security   CS20S61220148   Other Backward Class (OBC-NCL)   647   G1   OBC   NIT Warangal
+Computer Science & Information Security   CS18S33040543   Other Backward Class (OBC-NCL)   644   G1   OBC   NIT Warangal
+Computer Science & Information Security   CS20S65011426   Other Backward Class (OBC-NCL)   643   G1   OBC   NIT Warangal
+Computer Science & Information Security   CS20S62069637   Other Backward Class (OBC-NCL)   639   G1   OBC   NIT Warangal
+Computer Science & Information Security   CS20S65011289   Other Backward Class (OBC-NCL)   636   G1   OBC   NIT Warangal
+Computer Science & Information Security   CS20S63030465   Schedule Caste (SC)   507   G1   SC   NIT Warangal
+Computer Science & Information Security   CS20S62073006   Schedule Caste (SC)   504   G1   SC   NIT Warangal
+Computer Science & Information Security   CS20S68037034   Schedule Caste (SC)   500   G1   SC   NIT Warangal
+Computer Science & Information Security   CS20S63044144   Schedule Tribe (ST)   364   G1   ST   NIT Warangal
+Computer Science & Information Security   CS20S65011549   Schedule Tribe (ST)   360   G1   ST   NIT Warangal
+Computer Science & Engineering   CS20S68014039   General   818   G1   OPEN   NIT Warangal
+Computer Science & Engineering   CS20S65015112   General   760   G1   OPEN   NIT Warangal
+Computer Science & Engineering   CS20S66052325   General-EWS   756   G1   OPEN   NIT Warangal
+Computer Science & Engineering   CS20S63030108   General   756   G1   OPEN   NIT Warangal
+Computer Science & Engineering   CS20S65024066   General   756   G1   OPEN   NIT Warangal
+Computer Science & Engineering   CS20S65015411   General   756   G1   OPEN   NIT Warangal
+Computer Science & Engineering   CS18S38011374   General   755   G1   OPEN   NIT Warangal
+Computer Science & Engineering   CS20S67306153   General   752   G1   OPEN   NIT Warangal
+Computer Science & Engineering   CS20S65012066   General   748   G1   OPEN   NIT Warangal
+Computer Science & Engineering   CS20S65010284   General-EWS   737   G1   EWS   NIT Warangal
+Computer Science & Engineering   CS20S61102199   General-EWS   721   G1   EWS   NIT Warangal
+Computer Science & Engineering   CS20S63035149   Other Backward Class (OBC-NCL)   682   G1   OBC   NIT Warangal
+Computer Science & Engineering   CS20S68032502   Other Backward Class (OBC-NCL)   682   G1   OBC   NIT Warangal
+Computer Science & Engineering   CS20S62008105   Other Backward Class (OBC-NCL)   663   G1   OBC   NIT Warangal
+Computer Science & Engineering   CS20S61411245   Other Backward Class (OBC-NCL)   655   G1   OBC   NIT Warangal
+Computer Science & Engineering   CS20S63007102   Other Backward Class (OBC-NCL)   651   G1   OBC   NIT Warangal
+Computer Science & Engineering   CS20S61402918   Other Backward Class (OBC-NCL)   651   G1   OBC   NIT Warangal
+Computer Science & Engineering   CS20S65011509   Other Backward Class (OBC-NCL)   647   G1   OBC   NIT Warangal
+Computer Science & Engineering   CS20S63044246   Schedule Caste (SC)   535   G1   SC   NIT Warangal
+Computer Science & Engineering   CS20S64013034   Schedule Caste (SC)   523   G1   SC   NIT Warangal
+Computer Science & Engineering   CS20S62030110   Schedule Caste (SC)   511   G1   SC   NIT Warangal
+Computer Science & Engineering   CS20S66052332   Schedule Tribe (ST)   504   G1   ST   NIT Warangal
+Computer Science & Engineering   CS20S63028125   Schedule Tribe (ST)   441   G1   ST   NIT Warangal
+Computer Science & Engineering   CS20S65020012   Other Backward Class (OBC-NCL)   402   G1   OPEN-PwD   NIT Warangal
+Computer Science & Engineering   CS20S68024005   Other Backward Class (OBC-NCL)   286   G1   OBC-PwD   NIT Warangal
+Data Analytics   CS20S63033546   General-EWS   764   G1   OPEN   NIT Trichy
+Data Analytics   CS20S68013012   General   756   G1   OPEN   NIT Trichy
+Data Analytics   CS20S61406019   General   729   G1   OPEN   NIT Trichy
+Data Analytics   CS20S63012170   General   721   G1   OPEN   NIT Trichy
+Data Analytics   CS20S66050577   General   713   G1   OPEN   NIT Trichy
+Data Analytics   CS20S63032364   General   713   G1   OPEN   NIT Trichy
+Data Analytics   CS20S61401811   General   713   G1   OPEN   NIT Trichy
+Data Analytics   CS20S63028156   General   709   G1   OPEN   NIT Trichy
+Data Analytics   CS20S63028029   General   706   G1   OPEN   NIT Trichy
+Data Analytics   CS20S66020127   General   702   G1   OPEN   NIT Trichy
+Data Analytics   CS20S65011293   General-EWS   659   G1   EWS   NIT Trichy
+Data Analytics   CS20S63033589   General-EWS   655   G1   EWS   NIT Trichy
+Data Analytics   CS20S62004496   General-EWS   655   G1   EWS   NIT Trichy
+Data Analytics   CS20S63012034   Other Backward Class (OBC-NCL)   636   G1   OBC   NIT Trichy
+Data Analytics   CS20S61404770   Other Backward Class (OBC-NCL)   632   G1   OBC   NIT Trichy
+Data Analytics   CS18S33040123   Other Backward Class (OBC-NCL)   620   G1   OBC   NIT Trichy
+Data Analytics   CS20S65009464   Other Backward Class (OBC-NCL)   620   G1   OBC   NIT Trichy
+Data Analytics   CS20S61103093   Other Backward Class (OBC-NCL)   620   G1   OBC   NIT Trichy
+Data Analytics   CS20S67403005   Other Backward Class (OBC-NCL)   612   G1   OBC   NIT Trichy
+Data Analytics   CS20S65009011   Other Backward Class (OBC-NCL)   612   G1   OBC   NIT Trichy
+Data Analytics   CS20S62073167   Other Backward Class (OBC-NCL)   608   G1   OBC   NIT Trichy
+Data Analytics   CS20S62040330   Schedule Caste (SC)   507   G1   SC   NIT Trichy
+Data Analytics   CS20S66019005   Schedule Caste (SC)   488   G1   SC   NIT Trichy
+Data Analytics   CS20S65025233   Schedule Caste (SC)   480   G1   SC   NIT Trichy
+Data Analytics   CS20S65029080   Schedule Tribe (ST)   348   G1   ST   NIT Trichy
+Data Analytics   CS20S61212191   Schedule Tribe (ST)   317   G1   ST   NIT Trichy
+Data Analytics   CS20S64033001   General   274   G1   OPEN-PwD   NIT Trichy
+Computer Science & Engineering   CS20S68001012   General   764   G1   OPEN   NIT Trichy
+Computer Science & Engineering   CS20S63012274   General   760   G1   OPEN   NIT Trichy
+Computer Science & Engineering   CS20S68006220   General   756   G2   OPEN   NIT Trichy
+Computer Science & Engineering   CS20S63029277   General-EWS   756   G1   OPEN   NIT Trichy
+Computer Science & Engineering   CS20S62010098   General   756   G1   OPEN   NIT Trichy
+Computer Science & Engineering   CS20S62003819   General   756   G1   OPEN   NIT Trichy
+Computer Science & Engineering   CS20S64037071   General   756   G1   OPEN   NIT Trichy
+Computer Science & Engineering   CS20S68027239   General   752   G1   OPEN   NIT Trichy
+Computer Science & Engineering   CS20S63032498   General   752   G1   OPEN   NIT Trichy
+Computer Science & Engineering   CS20S62054436   General-EWS   752   G1   OPEN   NIT Trichy
+Computer Science & Engineering   CS20S62056007   General   748   G1   OPEN   NIT Trichy
+Computer Science & Engineering   CS20S68029002   General   748   G2   OPEN   NIT Trichy
+Computer Science & Engineering   CS20S65009207   General-EWS   737   G1   EWS   NIT Trichy
+Computer Science & Engineering   CS20S62040083   General-EWS   725   G1   EWS   NIT Trichy
+Computer Science & Engineering   CS20S65008106   General-EWS   721   G1   EWS   NIT Trichy
+Computer Science & Engineering   CS20S63006684   Other Backward Class (OBC-NCL)   678   G1   OBC   NIT Trichy
+Computer Science & Engineering   CS20S62029169   Other Backward Class (OBC-NCL)   663   G1   OBC   NIT Trichy
+Computer Science & Engineering   CS20S66020200   Other Backward Class (OBC-NCL)   663   G1   OBC   NIT Trichy
+Computer Science & Engineering   CS20S61322097   Other Backward Class (OBC-NCL)   663   G1   OBC   NIT Trichy
+Computer Science & Engineering   CS20S61329093   Other Backward Class (OBC-NCL)   659   G1   OBC   NIT Trichy
+Computer Science & Engineering   CS20S67403048   Other Backward Class (OBC-NCL)   659   G2   OBC   NIT Trichy
+Computer Science & Engineering   CS20S65024367   Other Backward Class (OBC-NCL)   655   G1   OBC   NIT Trichy
+Computer Science & Engineering   CS20S66014175   Other Backward Class (OBC-NCL)   643   G2   OBC   NIT Trichy
+Computer Science & Engineering   CS20S62050107   Schedule Caste (SC)   546   G1   SC   NIT Trichy
+Computer Science & Engineering   CS20S66020325   Schedule Caste (SC)   523   G1   SC   NIT Trichy
+Computer Science & Engineering   CS20S63031042   Schedule Caste (SC)   515   G1   SC   NIT Trichy
+Computer Science & Engineering   CS20S63037195   Schedule Caste (SC)   511   G1   SC   NIT Trichy
+Computer Science & Engineering   CS20S63023433   Schedule Tribe (ST)   488   G1   ST   NIT Trichy
+Computer Science & Engineering   CS20S62013133   Schedule Tribe (ST)   430   G1   ST   NIT Trichy
+Computer Science & Engineering   CS20S61227218   Schedule Caste (SC)   402   G2   SC   NIT Trichy
+Computer Science & Engineering   CS20S67340003   Other Backward Class (OBC-NCL)   301   G1   OBC-PwD   NIT Trichy
+Computational and Data Science   CS20S61248002   Other Backward Class (OBC-NCL)   709   G1   OPEN   NIT Surathkal
+Computational and Data Science   CS19S32082727   Schedule Caste (SC)   463   G1   SC   NIT Surathkal
+Computational and Data Science   CS20S65006152   Schedule Caste (SC)   461   G1   SC   NIT Surathkal
+Computational and Data Science   CS20S65022443   Schedule Caste (SC)   453   G1   SC   NIT Surathkal
+Computational and Data Science   CS20S64001033   Schedule Tribe (ST)   379   G1   ST   NIT Surathkal
+Computational and Data Science   CS20S64008081   Schedule Tribe (ST)   333   G1   ST   NIT Surathkal
+Computational and Data Science   CS20S63012007   General   321   G1   OPEN-PwD   NIT Surathkal
+Information Technology   CS19S32077265   General-EWS   722   G1   OPEN   NIT Surathkal
+Information Technology   CS20S62004424   General   717   G1   OPEN   NIT Surathkal
+Information Technology   CS20S62010370   General   678   G1   OPEN   NIT Surathkal
+Information Technology   CS20S65018162   General   678   G1   OPEN   NIT Surathkal
+Information Technology   CS20S63027123   General   678   G1   OPEN   NIT Surathkal
+Information Technology   CS20S61220125   General   674   G1   OPEN   NIT Surathkal
+Information Technology   CS20S66052284   General   674   G1   OPEN   NIT Surathkal
+Information Technology   CS20S63012422   General   674   G1   OPEN   NIT Surathkal
+Information Technology   CS20S63012044   General   674   G1   OPEN   NIT Surathkal
+Information Technology   CS18S38027218   General   671   G1   OPEN   NIT Surathkal
+Information Technology   CS20S68030024   General   671   G1   OPEN   NIT Surathkal
+Information Technology   CS20S63029282   General   671   G1   OPEN   NIT Surathkal
+Information Technology   CS20S65033047   General-EWS   647   G1   EWS   NIT Surathkal
+Information Technology   CS20S65009031   General-EWS   639   G1   EWS   NIT Surathkal
+Information Technology   CS20S63013163   General-EWS   636   G1   EWS   NIT Surathkal
+Information Technology   CS20S61406029   General-EWS   632   G1   EWS   NIT Surathkal
+Information Technology   CS20S67308156   Other Backward Class (OBC-NCL)   628   G1   OBC   NIT Surathkal
+Information Technology   CS20S65020270   Other Backward Class (OBC-NCL)   628   G1   OBC   NIT Surathkal
+Information Technology   CS20S66016067   Other Backward Class (OBC-NCL)   608   G1   OBC   NIT Surathkal
+Information Technology   CS20S65015519   Other Backward Class (OBC-NCL)   605   G1   OBC   NIT Surathkal
+Information Technology   CS20S62003930   Other Backward Class (OBC-NCL)   601   G1   OBC   NIT Surathkal
+Information Technology   CS20S61404980   Other Backward Class (OBC-NCL)   601   G1   OBC   NIT Surathkal
+Information Technology   CS20S62062360   Other Backward Class (OBC-NCL)   597   G1   OBC   NIT Surathkal
+Information Technology   CS20S66020135   Other Backward Class (OBC-NCL)   597   G1   OBC   NIT Surathkal
+Information Technology   CS20S63012182   Schedule Caste (SC)   472   G1   SC   NIT Surathkal
+Information Technology   CS20S62006077   Schedule Caste (SC)   472   G1   SC   NIT Surathkal
+Information Technology   CS19S31226513   Schedule Caste (SC)   470   G1   SC   NIT Surathkal
+Information Technology   CS20S62020077   Schedule Caste (SC)   469   G1   SC   NIT Surathkal
+Information Technology   CS19S35018706   Schedule Tribe (ST)   363   G1   ST   NIT Surathkal
+Information Technology   CS20S67313104   Schedule Tribe (ST)   340   G1   ST   NIT Surathkal
+Information Technology   CS20S61402595   Schedule Tribe (ST)   329   G1   ST   NIT Surathkal
+Signal Processing and Machine Learning   CS20S63001289   General   682   G1   OPEN   NIT Surathkal
+Signal Processing and Machine Learning   CS20S63033284   Schedule Caste (SC)   441   G1   SC   NIT Surathkal
+Signal Processing and Machine Learning   CS20S66018160   Schedule Caste (SC)   437   G1   SC   NIT Surathkal
+Signal Processing and Machine Learning   CS20S65010086   Schedule Caste (SC)   434   G1   SC   NIT Surathkal
+Signal Processing and Machine Learning   CS20S64022161   Schedule Caste (SC)   434   G1   SC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S68037078   General   721   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S66056216   General   721   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S65022018   General   721   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S63034094   General   717   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S63024117   General   713   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S63013576   General   709   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S63030188   General   702   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S62039508   General   698   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S63025316   General   698   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S61206385   General   698   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S62052039   General   694   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S65011436   General   690   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S63014341   General   686   G1   OPEN   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S62028023   General-EWS   678   G1   EWS   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S63023125   General-EWS   655   G1   EWS   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS19S35015082   General-EWS   652   G1   EWS   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S62029191   Other Backward Class (OBC-NCL)   628   G1   OBC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S68028096   Other Backward Class (OBC-NCL)   628   G1   OBC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S63012249   Other Backward Class (OBC-NCL)   628   G1   OBC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS19S33016235   Other Backward Class (OBC-NCL)   626   G1   OBC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S62063069   Other Backward Class (OBC-NCL)   624   G1   OBC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S62079014   Other Backward Class (OBC-NCL)   620   G1   OBC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S61402115   Other Backward Class (OBC-NCL)   620   G1   OBC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S62004184   Other Backward Class (OBC-NCL)   620   G1   OBC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S65009858   Other Backward Class (OBC-NCL)   616   G1   OBC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S64009025   Schedule Caste (SC)   500   G1   SC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S62027189   Schedule Caste (SC)   496   G1   SC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S63031057   Schedule Caste (SC)   496   G1   SC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S62051220   Schedule Caste (SC)   488   G1   SC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S63031039   Schedule Caste (SC)   488   G1   SC   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S61404077   Schedule Tribe (ST)   391   G1   ST   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S62038010   General   239   G1   OPEN-PwD   NIT Surathkal
+Computer Science & Engineering   CS20S63063374   General   779   G1   OPEN   NIT Surathkal
+Computer Science & Engineering   CS20S66043017   General   741   G1   OPEN   NIT Surathkal
+Computer Science & Engineering   CS20S65024334   General   741   G1   OPEN   NIT Surathkal
+Computer Science & Engineering   CS20S63036119   General   741   G1   OPEN   NIT Surathkal
+Computer Science & Engineering   CS20S62039147   General   737   G1   OPEN   NIT Surathkal
+Computer Science & Engineering   CS20S64011057   General   733   G1   OPEN   NIT Surathkal
+Computer Science & Engineering   CS20S64037015   General   733   G1   OPEN   NIT Surathkal
+Computer Science & Engineering   CS20S63037143   General   729   G1   OPEN   NIT Surathkal
+Computer Science & Engineering   CS20S63026177   General   729   G1   OPEN   NIT Surathkal
+Computer Science & Engineering   CS20S66043122   General   729   G1   OPEN   NIT Surathkal
+Computer Science & Engineering   CS20S63050067   General   725   G1   OPEN   NIT Surathkal
+Computer Science & Engineering   CS20S64037319   General   725   G1   OPEN   NIT Surathkal
+Computer Science & Engineering   CS20S62005015   General-EWS   717   G1   EWS   NIT Surathkal
+Computer Science & Engineering   CS20S66053112   General-EWS   709   G1   EWS   NIT Surathkal
+Computer Science & Engineering   CS20S63047040   General-EWS   706   G1   EWS   NIT Surathkal
+Computer Science & Engineering   CS20S62018190   General-EWS   694   G1   EWS   NIT Surathkal
+Computer Science & Engineering   CS20S67403047   Other Backward Class (OBC-NCL)   659   G1   OBC   NIT Surathkal
+Computer Science & Engineering   CS20S64037052   Other Backward Class (OBC-NCL)   647   G1   OBC   NIT Surathkal
+Computer Science & Engineering   CS20S67123120   Other Backward Class (OBC-NCL)   636   G1   OBC   NIT Surathkal
+Computer Science & Engineering   CS20S61405568   Other Backward Class (OBC-NCL)   636   G1   OBC   NIT Surathkal
+Computer Science & Engineering   CS20S63035127   Other Backward Class (OBC-NCL)   636   G1   OBC   NIT Surathkal
+Computer Science & Engineering   CS20S63001252   Other Backward Class (OBC-NCL)   636   G1   OBC   NIT Surathkal
+Computer Science & Engineering   CS20S61405865   Other Backward Class (OBC-NCL)   632   G1   OBC   NIT Surathkal
+Computer Science & Engineering   CS19S35024154   Other Backward Class (OBC-NCL)   629   G1   OBC   NIT Surathkal
+Computer Science & Engineering   CS20S62029242   Schedule Caste (SC)   511   G1   SC   NIT Surathkal
+Computer Science & Engineering   CS20S63032053   Schedule Caste (SC)   507   G1   SC   NIT Surathkal
+Computer Science & Engineering   CS20S68012027   Schedule Caste (SC)   504   G1   SC   NIT Surathkal
+Computer Science & Engineering   CS20S66020467   Schedule Caste (SC)   504   G1   SC   NIT Surathkal
+Computer Science & Engineering   CS20S66025111   Schedule Tribe (ST)   426   G1   ST   NIT Surathkal
+Computer Science & Engineering   CS19S32086404   Schedule Tribe (ST)   407   G1   ST   NIT Surathkal
+Computer Science & Engineering   CS20S63024168   Schedule Tribe (ST)   402   G1   ST   NIT Surathkal
+Computer Science & Engineering   CS20S66020001   General   247   G1   OPEN-PwD   NIT Surathkal
+Computer Science & Engineering (Information Security)   CS20S68004097   General   671   G1   OPEN   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S63044123   General   667   G1   OPEN   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S65008320   General   667   G1   OPEN   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S61404963   General   667   G1   OPEN   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S65011347   General   667   G1   OPEN   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S62054564   General   659   G1   OPEN   NIT Calicut
+Computer Science & Engineering (Information Security)   CS19S37047008   General   655   G1   OPEN   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S62052148   General   655   G1   OPEN   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S66038110   General   655   G1   OPEN   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S63028189   General   651   G1   OPEN   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S65028064   General-EWS   624   G1   EWS   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S62068738   General-EWS   624   G1   EWS   NIT Calicut
+Computer Science & Engineering (Information Security)   CS19S31402640   Other Backward Class (OBC-NCL)   600   G1   OBC   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S63013007   Other Backward Class (OBC-NCL)   597   G1   OBC   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S62039009   Other Backward Class (OBC-NCL)   593   G1   OBC   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S62055445   Other Backward Class (OBC-NCL)   593   G1   OBC   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S67105157   Other Backward Class (OBC-NCL)   589   G1   OBC   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S66018276   Other Backward Class (OBC-NCL)   589   G1   OBC   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S65011484   Schedule Caste (SC)   453   G1   SC   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S63029267   Schedule Caste (SC)   453   G1   SC   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S66049429   Schedule Caste (SC)   449   G1   SC   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S62051044   Schedule Caste (SC)   449   G1   SC   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S65011204   Schedule Tribe (ST)   325   G1   ST   NIT Calicut
+Computer Science & Engineering (Information Security)   CS20S61401729   Schedule Tribe (ST)   313   G1   ST   NIT Calicut
+Computer Science & Engineering   CS20S65009231   General   733   G1   OPEN   NIT Calicut
+Computer Science & Engineering   CS20S62039221   General   713   G1   OPEN   NIT Calicut
+Computer Science & Engineering   CS19S32098355   General   696   G1   OPEN   NIT Calicut
+Computer Science & Engineering   CS19S31327069   General   692   G1   OPEN   NIT Calicut
+Computer Science & Engineering   CS20S66024270   General   690   G1   OPEN   NIT Calicut
+Computer Science & Engineering   CS20S68015010   General   690   G1   OPEN   NIT Calicut
+Computer Science & Engineering   CS20S61218481   General   682   G1   OPEN   NIT Calicut
+Computer Science & Engineering   CS20S67312179   General   682   G1   OPEN   NIT Calicut
+Computer Science & Engineering   CS20S63034517   General   678   G1   OPEN   NIT Calicut
+Computer Science & Engineering   CS20S67330010   General-EWS   655   G1   EWS   NIT Calicut
+Computer Science & Engineering   CS20S62062362   General-EWS   651   G1   EWS   NIT Calicut
+Computer Science & Engineering   CS20S63012665   General-EWS   651   G1   EWS   NIT Calicut
+Computer Science & Engineering   CS20S63042070   Other Backward Class (OBC-NCL)   628   G1   OBC   NIT Calicut
+Computer Science & Engineering   CS20S67107158   Other Backward Class (OBC-NCL)   616   G1   OBC   NIT Calicut
+Computer Science & Engineering   CS20S63030428   Other Backward Class (OBC-NCL)   608   G1   OBC   NIT Calicut
+Computer Science & Engineering   CS20S61407432   Other Backward Class (OBC-NCL)   608   G1   OBC   NIT Calicut
+Computer Science & Engineering   CS20S65029167   Other Backward Class (OBC-NCL)   605   G1   OBC   NIT Calicut
+Computer Science & Engineering   CS20S63028132   Other Backward Class (OBC-NCL)   605   G1   OBC   NIT Calicut
+Computer Science & Engineering   CS20S63032461   Schedule Caste (SC)   496   G1   SC   NIT Calicut
+Computer Science & Engineering   CS20S62017185   Schedule Caste (SC)   492   G1   SC   NIT Calicut
+Computer Science & Engineering   CS20S65011772   Schedule Caste (SC)   480   G1   SC   NIT Calicut
+Computer Science & Engineering   CS20S63030026   Schedule Caste (SC)   472   G1   SC   NIT Calicut
+Computer Science & Engineering   CS20S67405049   Schedule Tribe (ST)   383   G1   ST   NIT Calicut
+Computer Science & Engineering   CS19S31401834   Schedule Tribe (ST)   378   G1   ST   NIT Calicut

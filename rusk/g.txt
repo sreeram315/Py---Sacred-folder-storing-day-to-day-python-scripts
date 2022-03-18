@@ -1,0 +1,70 @@
+#include<iostream>
+#include<vector>
+using std::vector;
+using namespace std;
+long long c=0;
+
+
+
+bool check(vector<long long> points,long long x,long long y,long long c){
+	cout<<x<<" "<<y<<endl;
+	long long i,j;
+	cout<<"reached check function"<<endl;
+	for(i=0;i<points.size();i++){
+		cout<<"-------------------------------"<<endl;
+		for(j=x;j<=y;j++){
+			cout<<"CHECKING FOR "<<points[i]<<" AND "<<j<<endl;
+			if(points[i]==j){
+			cout<<"exiting check false"<<endl;
+			return false;
+			}
+		}
+	}
+	cout<<"exiting check true";
+	return true;
+}
+
+vector<long long> optimal_points(vector<long long>seg1,vector<long long>seg2,long long n){
+	cout<<"reached optimal_points function"<<endl;
+	vector<long long>points;
+	
+	for(long long i=0;i<n;i++){
+		for(long long j=i+1;j<n;j++){
+			if(seg2[i]>seg2[j]){
+				long long temp1=seg1[i];
+				long long temp2=seg2[i];
+				seg1[i]=seg1[j];
+				seg2[i]=seg2[j];
+				seg1[j]=temp1;
+				seg2[j]=temp2;
+			}
+		}
+	}
+	cout<<"sorting done"<<endl;
+	for(long long i=0;i<n;i++){
+		if(seg2[i]>seg1[i+1] && check(points,seg1[i],seg2[i],c)){
+			cout<<"adding points "<<seg2[i]<<endl;
+			points.push_back(seg2[i]);
+			cout<<"Added points"<<endl;
+		}
+	}
+	cout<<"points formed"<<endl;
+
+	return points;
+}
+
+int main(){
+	long long n;
+	cin>>n;
+	vector<long long>seg1(n);
+	vector<long long>seg2(n);
+	for(long long i=0;i<n;i++)
+	cin>>seg1[i]>>seg2[i];
+	vector<long long>points=optimal_points(seg1,seg2,n);
+	cout<<points.size()<<endl;
+	for(long long i=0;points[i]!='\0';i++)
+	cout<<points[i]<<" ";
+	return 0;
+}
+
+

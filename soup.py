@@ -15,6 +15,9 @@ import re
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
+
+
+
 print('3')
 url = 'http://py4e-data.dr-chuck.net/comments_101291.html'
 html = urlopen(url, context=ctx).read()
